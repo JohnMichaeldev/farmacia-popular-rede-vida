@@ -1,0 +1,15 @@
+# Firebase local cache
+.firebase/
+
+# Temp/backup junk
+*.bak
+*.bak-*
+index.html.bak-antes-desktop
+
+# Unused draft/source images (not referenced by the site)
+ChatGPT Image*.png
+Icone Categorias.png
+Icone Home.jpg
+Icone Ofertas.png
+Icone Pedidos.png
+icon_home_final.png
