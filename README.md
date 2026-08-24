@@ -2,6 +2,8 @@
 
 Site de pedidos online para a **Farmácia Popular Rede Vida**, adaptado do sistema de delivery Mercafrio para as necessidades específicas do varejo farmacêutico.
 
+![Preview da Farmácia Popular Rede Vida](preview.jpg)
+
 **🔗 Demo ao vivo:** https://nexo-commerce---farmacia.web.app
 
 ## 💡 Motivação
